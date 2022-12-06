@@ -10,6 +10,6 @@ https://creativecommons.org/licenses/by-sa/3.0/
 
 本游戏为SCP - Containment Breach的2.5D翻版
 
-本游戏将在正式版发布后开源，如需二次修改，请署名原作者（TASA-Ed）
+如需二次修改，请署名原作者（TASA-Ed）
 
-要求：一部手机（最好不高于Android 10），剧本编辑器（开发者：https://github.com/keefor/ 下载地址：https://tasaed.top/3/hB0fL1.zip） 2.8.1及以上版本
+要求：Android系统(最好不高于Android 10)，剧本编辑器（开发者：https://github.com/keefor/ 下载地址：https://tasaed.top/3/hB0fL1.zip） 2.8.1及以上版本
