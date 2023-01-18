@@ -3,6 +3,8 @@
 
 SCP - 2.5D或SCP：Dcr
 
+TASA-Ed团队开发，官网：https://www.tasaed.top/
+
 游戏基于SCP基金会背景(http://scp-wiki-cn.wikidot.com/)
 
 游戏遵循知识共享许可协议BY-SA 3.0（即必须署名、可商用、可二创、可二创商用）
