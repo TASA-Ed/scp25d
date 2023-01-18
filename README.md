@@ -14,4 +14,4 @@ https://creativecommons.org/licenses/by-sa/3.0/
 
 如需二次修改，请署名原作者（TASA-Ed）
 
-要求：Android系统(最好不高于Android 10)，剧本编辑器（开发者：https://github.com/keefor/ 下载地址：https://tasaed.top/3/hB0fL1.zip） 2.8.1及以上版本
+要求：Android系统(最好不高于Android 10)，剧本编辑器（开发者：https://github.com/keefor/ 下载地址：https://www.tasaed.top/otoe/?otoid=9, http://www.catpan.xyz/s/GWi0?password=fa11） 2.8.1或及以上版本
