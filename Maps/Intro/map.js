@@ -9,7 +9,15 @@ function *start() {
   game.createrole({RId: `DoorLc`, $name: `ddd7`, $bx: 58, $by: 49.25, $action: 0, $showName:false});
   game.createrole({RId: `DoorLc`, $name: `ddd8`, $bx: 54, $by: 54.25, $action: 0, $showName:false});
   game.createrole({RId: `DoorLc`, $name: `ddd9`, $bx: 54, $by: 50.25, $action: 0, $showName:false});
+  game.createrole({RId: `DoorLc`, $name: `ddd10`, $bx: 42, $by: 55.25, $action: 0, $showName:false});
+  game.createrole({RId: `DoorLc`, $name: `ddd11`, $bx: 50, $by: 50.25, $action: 0, $showName:false});
+  game.createrole({RId: `DoorLc`, $name: `ddd12`, $bx: 50, $by: 54.25, $action: 0, $showName:false});
+  game.createrole({RId: `DoorLc`, $name: `ddd13`, $bx: 46, $by: 50.25, $action: 0, $showName:false});
+  game.createrole({RId: `DoorLc`, $name: `ddd14`, $bx: 46, $by: 54.25, $action: 0, $showName:false});
+  //Guard
   game.createrole({RId: `Guard`, $name: `urgrin`, $bx: 66, $by: 52, $action: 0, $showName:false});
+  game.createrole({RId: `Guard`, $name: `cellGuard`, $bx: 42, $by: 54, $action: 4, $showName:false});
+  game.createrole({RId: `Guard`, $name: `backGuard`, $bx: 68, $by: 52, $action: 0, $showName:false});
 }
 
 function *meng1(){ //地图事件 

@@ -92,10 +92,6 @@ function *$init() {
     }
 
 
-    //点击屏幕事件
-    game.gf['$map_click'] = function(bx, by, x, y) {
-        let hero = game.hero(0, {$action: 2, $targetBx: bx, $targetBy: by});
-    }
 
 
     yield game.msg("合理安排时间");
