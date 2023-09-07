@@ -16,4 +16,4 @@ https://creativecommons.org/licenses/by-sa/3.0/
 
 如需二次修改，请署名原作者（TASA-Ed）
 
-要求：鹰歌MakerFrame引擎（https://github.com/leamus/MakerFrame）
+要求：鹰歌MakerFrame引擎（https://github.com/leamus/MakerFrame ）
