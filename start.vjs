@@ -1,0 +1,1 @@
+[{"command":"块开始{","params":[],"status":{"enabled":true}},{"command":"载入地图","params":["Intro"],"status":{"enabled":true}},{"command":"创建主角","params":["D9341",""],"status":{"enabled":true}},{"command":"移动主角","params":["87","93"],"status":{"enabled":true}},{"command":"场景缩放","params":["10"],"status":{"enabled":true}},{"command":"块结束}","params":[],"status":{"enabled":true}}]
