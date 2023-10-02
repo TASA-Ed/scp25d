@@ -20,7 +20,6 @@ function *$start() {
     game.createhero({RId:`D9341`, $name:` `,  $showName:false});
     game.movehero(66,56);
     game.scale(3);
-    game.playmusic(`Light1.wav`);
 }
 
 
@@ -98,8 +97,6 @@ function *$init() {
     yield game.msg("合理安排时间");
 
     game.goon();
-    yield game.wait(500);
-    game.playmusic(`Intro.mp3`);
 
 }
 

@@ -18,6 +18,11 @@ function *start() {
   game.createrole({RId: `Guard`, $name: `urgrin`, $bx: 66, $by: 52, $action: 0, $showName:false});
   game.createrole({RId: `Guard`, $name: `cellGuard`, $bx: 42, $by: 54, $action: 4, $showName:false});
   game.createrole({RId: `Guard`, $name: `backGuard`, $bx: 68, $by: 52, $action: 0, $showName:false});
+  //起始事件
+  game.$plugins['$Leamus']['MultiMusic'].createPlayer(3);
+  game.$plugins['$Leamus']['MultiMusic'].play(1,`Intro.mp3`);
+  game.$plugins['$Leamus']['MultiMusic'].play(2,`Light1.wav`);
+  yield game.msg("6");
 }
 
 function *meng1(){ //地图事件 
