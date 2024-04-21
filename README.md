@@ -1,7 +1,5 @@
 # SCP-2.5D
-注：请不要与SCP：Dcrd混淆
-
-SCP - 2.5D或SCP：Dcr
+注：请不要与SCP-2.5D-SE混淆
 
 TASA-Ed团队开发，官网：https://www.tasaed.top/
 
