@@ -26,6 +26,14 @@
 
  德二吹风机("Ed-ccD2s")
 
+*发布平台
+
+ Amazon Appstore for Android(TASA-Ed)
+ QooApp(TASA-Ed Studio)
+ NashStore(TASA-Ed)
+ 7723游戏盒(德二吹风机Ds)
+ 虫虫助手(TASAEd)
+
 *特别鸣谢
 
  LS艾斯利尔
@@ -54,7 +62,7 @@
 游戏基于《SCP:收容失效》
 
 
-2020.10.10 - 2023.10.28
+2020.10.10 - 2024.3.29
 
 
 感谢这三年来所有支持我的人，没有你们SCP：2.5D肯定不会走到现在。
