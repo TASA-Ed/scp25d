@@ -3,7 +3,7 @@
 
 TASA-Ed团队开发，官网：https://www.tasaed.top/
 
-游戏基于SCP基金会背景(http://scp-wiki-cn.wikidot.com/ )
+游戏基于[SCP基金会社区](http://scp-wiki-cn.wikidot.com/)背景
 
 本游戏的源代码已授权给GPL v3.0开源软件许可证
 
