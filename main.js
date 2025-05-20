@@ -8,8 +8,6 @@
 //游戏开始脚本（开始时调用）
 function *$start() {
 
-    game.playmusic("");
-
 
     while(1) {
         let c = yield game.menu("请选择", ["开始游戏","读取存档","游戏说明","制作人员"]);
