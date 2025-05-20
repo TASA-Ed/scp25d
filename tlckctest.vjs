@@ -1,1 +1,0 @@
-{"Version":"0.6","Type":1,"TypeName":"VisualScript","Name":"","Data":[{"command":"函数/生成器{","params":["*start",""],"status":{"enabled":true}},{"command":"显示图片","params":["beforeDoorOpen_txt1.png","{}","txt1"],"status":{"enabled":true}},{"command":"块结束}","params":[],"status":{"enabled":true}}]}
