@@ -1,0 +1,1 @@
+{"Version":"0.9","RoleName":"D9341","RoleType":1,"SpriteType":1,"RealOffset":[1,1],"RealSize":[32,48],"ShadowOpacity":0.1,"MoveSpeed":0.1,"Penetrate":0,"ShowName":false,"Avatar":"","AvatarSize":[60,60],"Image":"class_d_tz.png","FrameIndex":[[0,3],[0,2],[0,0],[0,1]],"FrameSize":[32,48],"FrameCount":4,"FrameInterval":100,"RoleOffset":[0,0],"RoleSize":[32,48],"Scale":[1,1]}

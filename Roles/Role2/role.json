@@ -1,1 +1,0 @@
-{"Version":"0.6","RoleName":"Role2","RoleType":1,"RoleSize":[32,32],"FrameSize":[32,32],"FrameCount":4,"FrameIndex":[[0,0],[0,3],[0,2],[0,1]],"FrameInterval":100,"RealOffset":[10,15],"RealSize":[15,15],"Scale":[1,1],"MoveSpeed":0.1,"ShadowOpacity":1,"Penetrate":0,"Image":"Role2.png","Avatar":"","AvatarSize":[60,60]}
