@@ -1,3 +1,6 @@
 [submodule "Plugins/TASA-Ed/I18n"]
 	path = Plugins/TASA-Ed/I18n
 	url = https://github.com/TASA-Ed/MakerFrame-Plugins-I18n.git
+[submodule "GameLauncher"]
+	path = GameLauncher
+	url = https://github.com/TASA-Ed/MakerFrameGameLauncher.git
